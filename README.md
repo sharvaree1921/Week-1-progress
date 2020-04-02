@@ -136,8 +136,8 @@ References-[Numpy](https://scipy-lectures.org/intro/numpy/index.html)
   3. Other types of plots
     (regular plots,scatter plots,bar graph,pie chart,contour plots,imshow,,grids,3D plots,etc.)
     
-    References-[Matplotlib](https://scipy-lectures.org/intro/matplotlib/index.html)
-  
+ References- [Matplotlib](https://scipy-lectures.org/intro/matplotlib/index.html)
+    
   ## Scipy-
   1. File Input//Output
   2. Special Functions
