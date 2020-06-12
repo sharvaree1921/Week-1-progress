@@ -1,4 +1,4 @@
-# **Week-1-progress**
+# **Week-1-SOC_progress**
 Documentation of what I learnt in the week-23rd to 29th march 2020
 
 # GitHub Account
